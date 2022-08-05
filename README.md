@@ -1,2 +1,2 @@
 # DucksBombs
-My Unity game.
+Unity game.
